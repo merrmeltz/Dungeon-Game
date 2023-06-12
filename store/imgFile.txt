@@ -1,0 +1,11 @@
+game/store/health.gif
+game/store/gem.bmp
+game/store/chest.bmp
+game/store/key.png
+game/store/Boy.png
+game/store/Girl.png
+game/store/Cape.png
+game/store/Bald.png
+game/store/Princess.png
+game/store/Ninja.png
+game/store/Stache.png
